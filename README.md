@@ -1,7 +1,6 @@
 # Sales-Analytics-using-Power-BI
 
-### Goal: The Goal of this project was to create a sales analytics dashboard for a custom superstore and analyse
-the profit, loss and the areas of improvement.
+### Goal: The Goal of this project was to create a sales analytics dashboard for a custom superstore and analyse the profit, loss and the areas of improvement.
 
 ### About the Project: The entire project was performed using Microsoft Power BI Desktop. Initial step
 was to import the data set into Power BI. The data set was in the form of excel workbook (global_superstore_2016). 
