@@ -19,7 +19,7 @@ My suggestions after working on this project would be that the store should focu
 
 ### A Glimpse of the Dashboard
 
-![Screenshot (169)](https://user-images.githubusercontent.com/75041273/133863380-9cc00ab3-0adf-42e1-8ab7-b51469ce399d.png)
+![Screenshot (170)](https://user-images.githubusercontent.com/75041273/133881736-e05beddc-75f1-42cf-9f7b-a53566c3295a.png)
 
 ### Tech Stack
 
