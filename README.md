@@ -21,4 +21,6 @@ My suggestions after working on this project would be that the store should focu
 
 ![Screenshot (169)](https://user-images.githubusercontent.com/75041273/133863380-9cc00ab3-0adf-42e1-8ab7-b51469ce399d.png)
 
+### Tech Stack
+
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/> 
