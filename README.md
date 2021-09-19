@@ -2,7 +2,7 @@
 
 ### Goal: The Goal of this project was to create a sales analytics dashboard for a superstore and analyse it's profit, loss and the area of improvements.
 
-### About the Project: 
+### Project Description: 
 The entire project was performed using Microsoft Power BI Desktop. Initial step was to import the data set into Power BI. The data set was in the form of excel workbook (global_superstore_2016). The Data set contains three tables or sheets namely Orders, People and Returns. Each contains many features like Date of Order, Date of Delivery, Country, Customer Names, etc. The following are the steps of my analysis and the corresponding insights that were derived are clearly visible in the screenshot provided below:
 
 1. A custom column named Delivery days was created by subtracting order date from ship date.
