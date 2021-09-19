@@ -17,10 +17,10 @@ was also calculated.
 
 My suggestions after working on this project would be that the store should focus on increasing its store chain into more other countries as well. The store should try to retain its most profitable customers by providing exciting deals. The products that gave the least amount of profit should be sold at a discounted rate or should be discarded.
 
-### A Glimpse of the Dashboard
+### A Glimpse of the Dashboard:
 
 ![Screenshot (170)](https://user-images.githubusercontent.com/75041273/133881736-e05beddc-75f1-42cf-9f7b-a53566c3295a.png)
 
-### Tech Stack
+### Tech Stack:
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/> 
