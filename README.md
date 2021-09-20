@@ -17,6 +17,17 @@ was also calculated.
 
 My suggestions after working on this project would be that the store should focus on increasing its store chain into more other countries as well. The store should try to retain its most profitable customers by providing exciting deals. The products that gave the least amount of profit should be sold at a discounted rate or should be discarded.
 
+## Installation:
+
+The following steps will guide you to install Power BI Desktop and run the project at your local machine:
+
+1. Download and install Power Bi Desktop from [here](https://www.microsoft.com/en-in/p/power-bi-desktop/9ntxr16hnw1t#activetab=pivot:overviewtab).
+2. Clone this github repository or download as zip.
+3. Once Everything is done, open the .pbix file. 
+
+If you already have Power BI Desktop, then you can skip the first step.
+
+
 ### A Glimpse of the Dashboard:
 
 ![Screenshot (170)](https://user-images.githubusercontent.com/75041273/133881736-e05beddc-75f1-42cf-9f7b-a53566c3295a.png)
