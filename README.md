@@ -17,7 +17,7 @@ was also calculated.
 
 My suggestions after working on this project would be that the store should focus on increasing its store chain into more other countries as well. The store should try to retain its most profitable customers by providing exciting deals. The products that gave the least amount of profit should be sold at a discounted rate or should be discarded.
 
-## Installation:
+### Installation:
 
 The following steps will guide you to install Power BI Desktop and run the project at your local machine:
 
